@@ -1,0 +1,1 @@
+This repository is about the popular machine learning competition on kaggle, prediction of survivability in the infamous titanic shipwreck. The train set was used to build the ML model while the test set was used to see how well the model is performing. The submission file was the output file submitted on Kaggle.
